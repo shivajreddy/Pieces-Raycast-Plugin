@@ -1,5 +1,4 @@
 # Pieces-Raycast-Plugin
----
 
 - [x] Launch command opens the Pieces app
 
